@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there my name is Sair 👋</h1>
+<h1 align="center">Hi there this is Sair 👋</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
 <div style="display: flex; flex-direction: row;">
